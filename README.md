@@ -1,2 +1,4 @@
 # Projetos e Certificações
-Minhas certificações e todos projetos ja feitos por mim .
+Alguns dos meus projetos e certificados mais relevantes.
+-
+
